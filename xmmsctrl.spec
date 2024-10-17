@@ -9,7 +9,7 @@ Release:	%{release}
 Summary:	%{summary}
 License:	GPL
 Source0:	http://www.cs.aau.dk/~adavid/utils/%{name}-%{version}.tar.bz2
-URL:		http://www.cs.aau.dk/~adavid/utils/
+URL:		https://www.cs.aau.dk/~adavid/utils/
 Group:		Sound
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	libxmms-devel
