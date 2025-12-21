@@ -12,6 +12,7 @@ Source0:	http://www.cs.aau.dk/~adavid/utils/%{name}-%{version}.tar.bz2
 URL:		https://www.cs.aau.dk/~adavid/utils/
 Group:		Sound
 BuildRoot:	%{_tmppath}/%{name}-buildroot
+BuildRequires:	make
 BuildRequires:	libxmms-devel
 
 %description
