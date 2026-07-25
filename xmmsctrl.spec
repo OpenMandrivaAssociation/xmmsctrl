@@ -1,7 +1,7 @@
 %define name	xmmsctrl
 %define summary	Xmmsctrl is a small xmms control program
 %define version	1.9
-%define release %mkrel 5
+%define release 6
 
 Name:		%{name}
 Version:	%{version}
